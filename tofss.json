@@ -1,0 +1,12 @@
+{
+  "version": "0.0.0",
+  "description": "画像リネームツール",
+  "homepage": "https://github.com/gumi278/tofss",
+  "license": "Apache-2.0",
+  "url": "https://github.com/gumi278/tofss/releases/download/v0.0.0/tofss.jar",
+  "hash": "3396cc3519246b5bf8a5d5880f910c2b6a917832401b67e02e45df2d5c1b2938",
+  "bin": "tofss.bat",
+  "pre_install": [
+    "Set-Content -Path \"$dir\\tofss.bat\" -Value \"@echo off`nTOFSS=tofss java -jar %~dp0tofss.jar %*\""
+  ]
+}
