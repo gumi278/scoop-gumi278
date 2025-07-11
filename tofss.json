@@ -4,6 +4,6 @@
   "homepage": "https://github.com/gumi278/tofss",
   "license": "Apache-2.0",
   "url": "https://github.com/gumi278/tofss/releases/download/v0.0.0/tofss.zip",
-  "hash": "73ff319129f33539883d3eac59eef6b1e6bd22b9741dbec250c29513c520bdb7",
+  "hash": "9f4a9d43cd4fb6fe9f467aabfde7ffb447a8fd759553370b96a67e647de24476",
   "bin": "tofss.bat"
 }
